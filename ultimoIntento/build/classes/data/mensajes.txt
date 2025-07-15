@@ -1,0 +1,4 @@
+Código Primo: 3
+Código Primo: 5
+Código Primo: 43
+Código Primo: 89
